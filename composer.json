@@ -1,0 +1,17 @@
+{
+    "name": "jhoover/php-auth",
+    "description": "Sample PHP User Login Page",
+    "type": "project",
+    "require": {
+        "symfony/http-foundation": "3.1.6",
+        "firebase/php-jwt": "^5.0",
+        "vlucas/phpdotenv": "^2.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jordan Hoover",
+            "email": "jordan@hoovermld.com"
+        }
+    ]
+}
