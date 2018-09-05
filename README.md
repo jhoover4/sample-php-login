@@ -1,6 +1,6 @@
 # Simple PHP Application
 
-List of clients that can be accessed with a proper login. Ability to add clients as needed.
+List of clients that can be accessed with a proper login. Ability to update login information as needed.
 
 UN: admin<br/>
 PW: admin
