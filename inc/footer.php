@@ -3,7 +3,8 @@
         <div class="row">
             <div class="col mx-auto portfolio">
                 <img src="../assets/img/GitHub-Mark.png" width="75">
-                <p>Created by <a href="https://www.linkedin.com/in/jordanhoover/" target="_blank">Jordan Hoover</a><br>View my work on <a href="https://github.com/jhoover4" target="_blank">GitHub</a></p>
+                <p>Created by <a href="https://www.linkedin.com/in/jordanhoover/" target="_blank">Jordan Hoover</a><br>View
+                    my work on <a href="https://github.com/jhoover4" target="_blank">GitHub</a></p>
             </div>
         </div>
     </div>

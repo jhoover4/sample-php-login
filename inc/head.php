@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title><?php echo getenv('COMPANY_NAME') ?> Clients</title>
 
-    <link rel='icon' href='../assets/img/hooli_favicon.png' type='image/x-icon'/ >
+    <link rel="icon" href="../assets/img/hooli_favicon.png" type="image/x-icon">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.1.3/lux/bootstrap.min.css">
     <link rel="stylesheet" href="../assets/css/custom.css">
 

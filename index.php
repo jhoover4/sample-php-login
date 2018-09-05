@@ -1,11 +1,10 @@
-<?php require __DIR__ . '/inc/bootstrap.php';
+<?php
+require __DIR__ . '/inc/bootstrap.php';
 
 requireAuth();
 
 require_once __DIR__ . '/inc/head.php';
 require_once __DIR__ . '/inc/nav.php';
-
-
 ?>
     <div class="container">
         <?php print displayFlash('success'); ?>
