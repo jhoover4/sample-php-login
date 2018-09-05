@@ -1,4 +1,4 @@
-# Simple PHP Application
+# Sample PHP Login
 
 List of clients that can be accessed with a proper login. Ability to update login information as needed.
 
